@@ -7,6 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publications
+    url: '#pub'
+    weight: 20
+  - name: CV
+    url: uploads/CV_yyang.pdf
+    weight: 30
+  - name: kaggle
+    url: https://www.kaggle.com/yijunyang123
+    weight: 40
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
@@ -16,9 +25,6 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Publications
-    url: '#pub'
-    weight: 50
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
