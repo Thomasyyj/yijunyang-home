@@ -21,7 +21,7 @@ doi: ""
 publication: "*NAACL 2024 under peer review*"
 # publication_short: ""
 
-# abstract: 
+abstract: In recent years, several works have investigated the potential  of language models as knowledge bases as well as the existence of severe biases when extracting factual knowledge. In this work, we point out the inherent misalignment between pre-training and downstream tuning objectives in language models for probing knowledge under a probabilistic view and hypothesize that simultaneously debiasing these objectives can be the key to generalisation over unseen prompts.  We propose an adapter-based framework **UniArk** for generalised and consistent  factual knowledge extraction through simple and parameter-free methods. Extensive experiments show that UniArk can significantly improve the model's out-of-domain generalisation as well as being consistent under various prompts. Additionally, we construct a large-scale and diverse dataset **ParaTrex** for measuring the inconsistency and out-of-domain generation of models. Further, ParaTrex offers a reference method for constructing paraphrased datasets using large language models
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,13 +34,13 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://openreview.net/pdf?id=YMn51UxIjeq
-# url_code: '#'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

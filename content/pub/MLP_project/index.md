@@ -27,7 +27,7 @@ doi: ""
 publication: "*COLING 2024 under peer review*"
 # publication_short: ""
 
-# abstract: 
+abstract: Current approaches to question answering rely on pre-trained language models (PLMs) like RoBERTa. This work challenges the existing question-answer encoding convention and explores finer representations. We begin by testing various pooling methods compared to using the begin-of-sentence token as a question representation for better quality. Next, we explore opportunities to simultaneously embed all answer candidates with the question. This enables cross-reference between answer choices and improves inference throughput via reduced memory usage. Despite their simplicity and effectiveness, these methods have yet to be widely studied in current frameworks. We experiment with different PLMs, and with and without the integration of knowledge graphs. Results prove that the memory efficacy of the proposed techniques can be achieved orthogonally without compromising performance. Practically, our framework increases throughput by 67-133\% on consumer-grade GPUs by allowing for considerably larger batch sizes. Our work points out promising directions in both representation quality and efficiency for the question answering task in natural language processing.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,17 +36,17 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: '#'
-# url_code: '#'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
