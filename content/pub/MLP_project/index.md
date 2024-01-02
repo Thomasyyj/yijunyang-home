@@ -2,7 +2,7 @@
 title: "EEE-QA: Exploring Effective and Efficient Question-Answer Representations"
 authors:
   - Zhanghao Hu
-  - Yijun Yang
+  - admin
   - Junjie Xu
   - Yifu Qiu
   - Pinzhen Chen
@@ -11,7 +11,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
-  
+
 date: "2023-11-23T00:00:00Z"
 doi: ""
 
@@ -36,17 +36,17 @@ tags:
 - Source Themes
 featured: false
 
-links:
+# links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_pdf: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
