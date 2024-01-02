@@ -126,6 +126,8 @@ highlight_name: true
 
 I work as a research assistent in [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), covering topics on the information extraction. I pursued my post-graduate studies at [University of Edinburgh](https://www.ed.ac.uk/) with specific interest in natual language processing. My dissertation project was supervised by Prof [Jeff Z. Pan](https://knowledge-representation.org/j.z.pan/). Prior to my study, I received the First Class Honor of my bachelor’s degree from [University of Nottingham](https://www.nottingham.ac.uk/), major in Mathematics with Applied Mathematics.
 
-<!-- **I am actively looking for a fully-funded PhD position starting in the fall of 2024, primarily in the area of knowledgable and trustworthy Large Language Models. Please feel free to contact me for any possible opportunities!** -->
+My research interest is on the alignment of external knowledge sources, such as knowledge bases, with the internal knowledge within language models. I am currently engaged in exploring the trustworthy integration of parametric knowledge in language models, as well as the reliable interaction between knowledge graphs and language models. 
+
+I am actively looking for a fully-funded PhD position starting in the fall of 2024, primarily in the area of knowledgable and trustworthy Large Language Models. Please feel free to contact me for any possible opportunities!
 
 {style="text-align: justify;"}
